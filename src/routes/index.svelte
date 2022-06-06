@@ -19,7 +19,7 @@
 		</div>
 
 		<div
-			class="mt-[600px] max-w-3xl mx-auto sm:px-6 lg:px-8 text-center bg-blend-exclusion bg-slate-200 bg-opacity-90 text-gray-700 rounded-2xl h-[500px]"
+			class="mt-[550px] max-w-3xl mx-auto sm:px-6 lg:px-8 text-center bg-blend-exclusion bg-slate-200 bg-opacity-90 text-gray-700 rounded-2xl h-[500px]"
 			style="transform : translate(0,{-y * 2}px"
 		>
 			<h1 class="font-bold">SAT ROCKS</h1>
@@ -45,7 +45,7 @@
 			<SoundSystem />
 		</div>
 
-		<div class="w-full absolute bottom-0 h-24" style="transform : translate(0,{-y * 1}px">
+		<div class="w-full absolute bottom-0 h-28" style="transform : translate(0,{-y * 1}px">
 			<Waves />
 		</div>
 	</div>

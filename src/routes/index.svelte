@@ -2,6 +2,8 @@
 	import MainBanner from '$lib/components/carousels/MainBanner';
 	import TranslucidBox from '$lib/components/containers/TranslucidBox';
 	import MainNavBar from '$lib/components/navbars/MainNavBar';
+	import Manta1 from '$lib/components/svg/Manta1.svelte';
+	import TitleSr from '$lib/components/svg/TitleSR.svelte';
 
 	let y = 0;
 </script>
@@ -17,6 +19,8 @@
 				SATROCKS revient le 7 Octobre 2022 pour sa XIV edition
 			</h2>
 			<!--Banner-->
+			<Manta1 />
+			<TitleSr />
 			<MainBanner />
 
 			<p class="mt-[5px] text-center text-white text-[5px] sm:text-xl">
